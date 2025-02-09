@@ -1,7 +1,7 @@
 <h1 align="center">Défi de l'UQODE, hiver 2025 ⚡</h1>
 
 <p align="center">
-  <img src="https://github.com/REI-UQODE/UQODE-Challenges-H2025/blob/main/Uqode.png" alt="UQODE" height="200" width="200" style="filter:alpha(opacity=40);"/>
+  <img src="https://github.com/REI-UQODE/UQODE-Challenges-H2025/blob/main/Uqode.png" alt="UQODE" height="200" width="200"/>
 </p>
 Répertoire des défis de l'UQODE de l'hiver 2025 avec les réponses des vainqueurs et mentions honorables. </br> </br> 
 
