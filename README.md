@@ -14,7 +14,7 @@ Répertoire des défis de l'UQODE de l'hiver 2025 avec les réponses des vainque
 
 [Défi de mars](#défi-de-mars-)
 
-[Gagnants et mentions honorables](#gagnants-des-défis-et-mentions-honorables)
+[Gagnants et mentions honorables](#gagnants-des-défis-et-mentions-honorables-)
 
 ## Défi de janvier: StarChallenge 🌟
 Créez un programme qui transforme une phrase donnée par l’utilisateur en un **affichage artistique sous forme d’étoiles**! Jetez un coup d'oeil à la **[description](https://github.com/REI-UQODE/MandelBrotSet/blob/main/Documents/StarChallenge_UQODE.pdf)** du défi.
@@ -25,7 +25,7 @@ Embarquez un défi épique : **concevez un simulateur de bataille navale**. Ce c
 ## Défi de mars: ❔
 *Description à venir...!*
 
-## Gagnants des défis et mentions honorables
+## Gagnants des défis et mentions honorables 🏅
 ### Défi de janvier
 - **Vainqueur**: [Vincent G.](https://github.com/REI-UQODE/MandelBrotSet/tree/main/StarChallenge/Solution%20Gagnante/VincentG)
 
