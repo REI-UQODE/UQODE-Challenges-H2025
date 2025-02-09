@@ -8,21 +8,21 @@ Répertoire des défis de l'UQODE de l'hiver 2025 avec les réponses des vainque
 **L'UQODE, club de programmation et de cybersécurité, diffuse des défis mensuels aux étudiants de l'UQO pour qu'ils puissent tester leurs compétences et résoudre des problèmes**
 
 ## Table des matières
-[StarChallenge](#défi-de-janvier-starchallenge)
+[StarChallenge](#défi-de-janvier-starchallenge-)
 
-[Battleship](#défi-de-février-battleship)
+[Battleship](#défi-de-février-battleship-)
 
 [Défi de mars](#défi-de-mars-)
 
 [Gagnants et mentions honorables](#gagnants-des-défis-et-mentions-honorables)
 
-## Défi de janvier: StarChallenge
+## Défi de janvier: StarChallenge 🌟
 Créez un programme qui transforme une phrase donnée par l’utilisateur en un **affichage artistique sous forme d’étoiles**! Jetez un coup d'oeil à la **[description](https://github.com/REI-UQODE/MandelBrotSet/blob/main/Documents/StarChallenge_UQODE.pdf)** du défi.
 
-## Défi de février: Battleship
+## Défi de février: Battleship 🚢
 Embarquez un défi épique : **concevez un simulateur de bataille navale**. Ce classique mettra à l’épreuve vos capacités en programmation et de résolution de problème ! Seriez-vous en mesure de récréer la tension des mers et coulera les navires ennemis avant qu’il ne soit trop tard ? Jetez un coup d'oeil à la **[description](https://github.com/REI-UQODE/MandelBrotSet/blob/main/Documents/BattleShip_UQODE.pdf)** du défi.
 
-## Défi de mars: ???
+## Défi de mars: ❔
 *Description à venir...!*
 
 ## Gagnants des défis et mentions honorables
