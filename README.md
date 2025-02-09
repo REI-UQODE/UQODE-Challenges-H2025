@@ -20,7 +20,7 @@ Répertoire des défis de l'UQODE de l'hiver 2025 avec les réponses des vainque
 Créez un programme qui transforme une phrase donnée par l’utilisateur en un **affichage artistique sous forme d’étoiles**! Jetez un coup d'oeil à la **[description](https://github.com/REI-UQODE/UQODE-Challenges-H2025/blob/main/Documents/StarChallenge_UQODE.pdf)** du défi.
 
 ## Défi de février: Battleship 🚢
-Embarquez un défi épique : **concevez un simulateur de bataille navale**. Ce classique mettra à l’épreuve vos capacités en programmation et de résolution de problème ! Seriez-vous en mesure de récréer la tension des mers et coulera les navires ennemis avant qu’il ne soit trop tard ? Jetez un coup d'oeil à la **[description](https://github.com/UQODE-Challenges-H2025/MandelBrotSet/blob/main/Documents/BattleShip_UQODE.pdf)** du défi.
+Embarquez un défi épique : **concevez un simulateur de bataille navale**. Ce classique mettra à l’épreuve vos capacités en programmation et de résolution de problème ! Seriez-vous en mesure de récréer la tension des mers et coulera les navires ennemis avant qu’il ne soit trop tard ? Jetez un coup d'oeil à la **[description](https://github.com/REI-UQODE/UQODE-Challenges-H2025/blob/main/Documents/BattleShip_UQODE.pdf)** du défi.
 
 ## Défi de mars: ❔
 *Description à venir...!*
