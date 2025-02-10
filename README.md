@@ -27,7 +27,7 @@ Embarquez un défi épique : **concevez un simulateur de bataille navale**. Ce c
 
 ## Gagnants des défis et mentions honorables 🏅
 ### Défi de janvier
-- **Vainqueur**: [Vincent G.](https://github.com/REI-UQODE/UQODE-Challenges-H2025/tree/main/StarChallenge/Solution%20Gagnante/VincentG)
+- **Vainqueur**: [Vincent G.](https://github.com/REI-UQODE/UQODE-Challenges-H2025/tree/main/StarChallenge/Solution%20Gagnante/VincentG) ([gyoo18](https://github.com/gyoo18))
 
-- **Mentions Honorables**: [Fatima Z.](https://github.com/REI-UQODE/UQODE-Challenges-H2025/tree/main/StarChallenge/Mentions%20Honorables/FatimaZ) & [Megan D.](https://github.com/REI-UQODE/UQODE-Challenges-H2025/tree/main/StarChallenge/Mentions%20Honorables/MeganD)
+- **Mentions Honorables**: [Fatima Z.](https://github.com/REI-UQODE/UQODE-Challenges-H2025/tree/main/StarChallenge/Mentions%20Honorables/FatimaZ) ([NouraneSeg](https://github.com/NouraneSeg)) & [Megan D.](https://github.com/REI-UQODE/UQODE-Challenges-H2025/tree/main/StarChallenge/Mentions%20Honorables/MeganD)
 
