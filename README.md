@@ -12,18 +12,18 @@ Répertoire des défis de l'UQODE de l'hiver 2025 avec les réponses des vainque
 
 [Battleship](#défi-de-février-battleship-)
 
-[Défi de mars](#défi-de-mars-)
+[Mandelbrot Set](#défi-de-mars-mandelbrot-set-)
 
 [Gagnants et mentions honorables](#gagnants-des-défis-et-mentions-honorables-)
 
 ## Défi de janvier: StarChallenge 🌟
-Créez un programme qui transforme une phrase donnée par l’utilisateur en un **affichage artistique sous forme d’étoiles**! Jetez un coup d'oeil à la **[description](https://github.com/REI-UQODE/UQODE-Challenges-H2025/blob/main/Documents/StarChallenge_UQODE.pdf)** du défi.
+Créez un programme qui transforme une phrase donnée par l’utilisateur en un **affichage artistique sous forme d’étoiles**! Jetez un oeil à la **[description](https://github.com/REI-UQODE/UQODE-Challenges-H2025/blob/main/Documents/StarChallenge_UQODE.pdf)** du défi.
 
 ## Défi de février: Battleship 🚢
-Embarquez un défi épique : **concevez un simulateur de bataille navale**. Ce classique mettra à l’épreuve vos capacités en programmation et de résolution de problème ! Seriez-vous en mesure de récréer la tension des mers et coulera les navires ennemis avant qu’il ne soit trop tard ? Jetez un coup d'oeil à la **[description](https://github.com/REI-UQODE/UQODE-Challenges-H2025/blob/main/Documents/BattleShip_UQODE.pdf)** du défi.
+Embarquez un défi épique : **concevez un simulateur de bataille navale**. Ce classique mettra à l’épreuve vos capacités en programmation et de résolution de problème ! Seriez-vous en mesure de récréer la tension des mers et coulera les navires ennemis avant qu’il ne soit trop tard ? Jetez un oeil à la **[description](https://github.com/REI-UQODE/UQODE-Challenges-H2025/blob/main/Documents/BattleShip_UQODE.pdf)** du défi.
 
-## Défi de mars: ❔
-*Description à venir...!*
+## Défi de mars: Mandelbrot Set 🧮
+Plongez dans le monde fascinant des fractales ! Ce **[défi](https://github.com/REI-UQODE/UQODE-Challenges-H2025/blob/main/Documents/MandelbrotSet_UQODE.pdf)** consiste à programmer un **générateur de fractales** comme l’ensemble de Mandelbrot ou le triangle de Sierpinski. Vous testerez vos compétences en programmation, en mathématiques et en visualisation graphique. Jetez un oeil à ce site pour visualiser l’ensemble de Mandelbrot : https://math.hws.edu/eck/js/mandelbrot/MB.html
 
 ## Gagnants des défis et mentions honorables 🏅
 ### Défi de janvier
