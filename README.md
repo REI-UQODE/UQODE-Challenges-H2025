@@ -31,3 +31,8 @@ Plongez dans le monde fascinant des fractales ! Ce **[défi](https://github.com/
 
 - **Mentions Honorables**: [Fatima Z.](https://github.com/REI-UQODE/UQODE-Challenges-H2025/tree/main/StarChallenge/Mentions%20Honorables/FatimaZ) ([NouraneSeg](https://github.com/NouraneSeg)) & [Megan D.](https://github.com/REI-UQODE/UQODE-Challenges-H2025/tree/main/StarChallenge/Mentions%20Honorables/MeganD)
 
+### Défi de février
+- **Vainqueur**: [Lucas G.](https://github.com/REI-UQODE/UQODE-Challenges-H2025/tree/main/Battleship/Solution%20Gagnante/LucasG)
+
+- **Mention Honorable**: [Vincent G.](https://github.com/gyoo18/Battleship/tree/V0.3.1-alpha?tab=readme-ov-file) ([gyoo18](https://github.com/gyoo18))
+
