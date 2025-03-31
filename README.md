@@ -34,5 +34,5 @@ Plongez dans le monde fascinant des fractales ! Ce **[défi](https://github.com/
 ### Défi de février
 - **Vainqueur**: [Lucas G.](https://github.com/REI-UQODE/UQODE-Challenges-H2025/tree/main/Battleship/Solution%20Gagnante/LucasG)
 
-- **Mention Honorable**: [Vincent G.](https://github.com/gyoo18/Battleship/tree/V0.3.1-alpha?tab=readme-ov-file) ([gyoo18](https://github.com/gyoo18))
+- **Mention Honorable**: [Vincent G.](https://github.com/gyoo18/Battleship) ([gyoo18](https://github.com/gyoo18))
 
