@@ -36,3 +36,5 @@ Plongez dans le monde fascinant des fractales ! Ce **[défi](https://github.com/
 
 - **Mention Honorable**: [Vincent G.](https://github.com/gyoo18/Battleship) ([gyoo18](https://github.com/gyoo18))
 
+### Défi de mars
+- **Vainqueur**: [Vincent G.](https://github.com/gyoo18/Mandelbrot/) ([gyoo18](https://github.com/gyoo18))
